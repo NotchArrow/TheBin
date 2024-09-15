@@ -1,0 +1,1 @@
+print("Your expression is equivalent to " + str(eval(input("Enter your expression:"))))
